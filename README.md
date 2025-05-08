@@ -7,7 +7,7 @@
 [distilbert-base-uncased-finetuned-sst-2-english](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
 
 ## 🖼 لقطة شاشة للواجهة
-"C:\Users\abdul\OneDrive\سطح المكتب\Screenshot.png"
+"C:\Users\abdul\OneDrive\سطح المكتب\Customer Sentiment Analyzer Screenshot.png"
 
 ## 🔗 رابط إلى الكود (Google Colab)
 [افتح المشروع من هنا](https://colab.research.google.com/drive/1nuHQOm2hdCFTCuiou3RmZg1-DvkyCgNt)
