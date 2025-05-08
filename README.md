@@ -6,7 +6,7 @@
 ## 🤖 النموذج المستخدم
 [distilbert-base-uncased-finetuned-sst-2-english](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
 
-## 🖼 لقطة شاشة للواجهةCustomer Sentiment Analyzer Screenshot.png![Customer Sentiment Analyzer Screenshot](https://github.com/user-attachments/assets/065c3bfd-294f-42cb-bbb8-604b9e036d1b)
+## 🖼 لقطة شاشة للواجهة![Customer Sentiment Analyzer Screenshot](https://github.com/user-attachments/assets/065c3bfd-294f-42cb-bbb8-604b9e036d1b)
 
 
 ## 🔗 رابط إلى الكود (Google Colab)
